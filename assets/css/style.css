@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .card {
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 1);
   border-radius: 16px;
   color: #000;
   font-size: 14px;
@@ -1989,6 +1989,7 @@ section {
   padding-left: 15px;
   padding-top: 50px;
   margin-top: 40px;
+  border-top: 1px solid transparent!important;
 }
 .border-top:before {
   position: absolute;
