@@ -147,13 +147,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #C1647D;
+  background: #ee0979;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #9C3752;
+  background: #ee0979;
   color: #fff;
 }
 
