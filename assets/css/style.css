@@ -2005,3 +2005,6 @@ section {
   width: 100%;
   display: block;
 }
+.no-color:hover {
+  color: #000;  
+}
