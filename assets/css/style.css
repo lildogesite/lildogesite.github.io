@@ -2006,5 +2006,5 @@ section {
   display: block;
 }
 .no-color:hover {
-  color: #000;  
+  color: #000 !important;
 }
