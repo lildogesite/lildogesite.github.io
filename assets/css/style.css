@@ -65,6 +65,22 @@ h1, h2, h3, h4, h5, h6 {
   color: #4BA76D;
   margin-right: 10px;
 }
+
+.side-page {
+  padding-top: 0px;
+}
+
+.list-guide li {
+  margin-bottom: 10px !important;
+  list-style-type: circle;
+}
+
+#guide p {
+  color: #000;
+}
+#guide h5 {
+  color: #000;
+}
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
@@ -1979,6 +1995,9 @@ section {
   }
   .card { 
     font-size: 22px;
+  }
+  .side-page {
+    padding-top: 100px;
   }
 }
 @media (min-width: 1600px) { 
