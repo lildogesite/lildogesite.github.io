@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-bg {
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .card {
@@ -76,10 +76,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #guide p {
-  color: #000;
+  color: #4B6F89;
 }
 #guide h5 {
-  color: #000;
+  color: #ee0979;
   margin-bottom: 12px;
   margin-top: 20px;
 }
@@ -657,7 +657,7 @@ section {
 }
 
 .section-title h3 span {
-  color: #000;
+  color: #ee0979;
 }
 
 .section-title p {
