@@ -1893,6 +1893,14 @@ section {
   #hero {
     height: 70vh; /* Fallback for browsers that do not support Custom Properties */
   }
+  .mb-flex {
+    display: flex;
+    flex-direction: column;
+  }
+  .mb-flex a {
+    margin-top: 15px;
+    max-width: 200px;
+  }
 }
 @media (min-width: 768px) {
   .pill:after {
