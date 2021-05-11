@@ -72,6 +72,9 @@ h1, h2, h3, h4, h5, h6 {
   list-style-type: circle;
 }
 
+#guide {
+  word-break: break-word;
+}
 #guide p {
   color: #3d5c73;
 }
